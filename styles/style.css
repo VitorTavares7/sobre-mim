@@ -118,3 +118,12 @@ body{
         width: auto;
     }
 }
+
+@media (max-width: 370px){
+   .apresentacao__conteudo{
+        width: 100%;
+   }
+   .rodape{
+    width: 100%;
+   }
+}
