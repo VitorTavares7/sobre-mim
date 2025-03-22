@@ -16,5 +16,5 @@
   <li><strong>Design Responsivo</strong>: O layout foi projetado para ser visualizado de forma adequada em dispositivos de diferentes tamanhos (desktop, tablet, celular).</li>
 </ul>
 
-## Autor
+## ✨ Autor
 <p><strong>Vitor de Oliveira Tavares</strong> - vitor.tavares.dev7@gmail.com</p>
