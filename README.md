@@ -2,7 +2,7 @@
 
 <p>Este é meu portfólio pessoal criado com <strong>HTML</strong> e <strong>CSS</strong>, onde apresento um pouco sobre mim, minhas habilidades e os projetos em que trabalhei. O objetivo deste portfólio é fornecer uma visão geral das minhas competências e experiências de forma simples e visualmente agradável.</p>
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 <ul>
   <li><strong>HTML5</strong>: Estruturação do conteúdo.</li>
   <li><strong>CSS3</strong>: Estilização e layout.</li>
