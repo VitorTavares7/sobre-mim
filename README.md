@@ -1,4 +1,4 @@
-# Portfólio - [Vitor Tavares]
+# 📌 Portfólio - [Vitor Tavares]
 
 <p>Este é meu portfólio pessoal criado com <strong>HTML</strong> e <strong>CSS</strong>, onde apresento um pouco sobre mim, minhas habilidades e os projetos em que trabalhei. O objetivo deste portfólio é fornecer uma visão geral das minhas competências e experiências de forma simples e visualmente agradável.</p>
 
@@ -10,7 +10,7 @@
   <li><strong>Flexbox</strong> e <strong>Grid Layout</strong>: Para criação de layouts responsivos e flexíveis.</li>
 </ul>
 
-## Funcionalidades
+## 📱 Funcionalidades
 <ul>
   <li><strong>Seção sobre mim</strong>: Apresentação de minhas habilidades, experiência e interesses.</li>
   <li><strong>Design Responsivo</strong>: O layout foi projetado para ser visualizado de forma adequada em dispositivos de diferentes tamanhos (desktop, tablet, celular).</li>
